@@ -1,0 +1,10 @@
+.convert-result {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    background-color: #dddddd;
+}
